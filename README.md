@@ -2,8 +2,7 @@
 
 Bem vindos/vindas ao meu github!!
 
-Estou começado minha jornada em programaçao...
-- 🔭 Atualmente a meta melhorar ainda mais em PHP e JS entendo melhor os conceitos.
+- 🔭 Atualmente a meta melhorar ainda mais em PHP e JS.
 <!--
 **laurielylourenco/laurielylourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
