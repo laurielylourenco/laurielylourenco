@@ -1,8 +1,14 @@
-### Eeeei 👋
+# you must be very lost to get here !! 👋
 
-Bem vindos/vindas ao meu github!!
+## Bem vindos/vindas ao meu github!!
 
-- 🔭 Atualmente a meta melhorar ainda mais em PHP e JS.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauriely-louren%C3%A7o-79b472182/)](https://www.linkedin.com/in/lauriely-louren%C3%A7o-79b472182/)
+
+
+### Sobre mim
+Estou começando a trilha meu caminho pela area é atualmente estudo é faço projetos para meu repositorio  nas linguagens PHP,JS.
+
+
 <!--
 **laurielylourenco/laurielylourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
