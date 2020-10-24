@@ -1,12 +1,24 @@
-# you must be very lost to get here !! 👋
+# Bem vindos/vindas ao meu github!!
 
-## Bem vindos/vindas ao meu github!!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauriely-louren%C3%A7o-79b472182/)](https://www.linkedin.com/in/lauriely-louren%C3%A7o-79b472182/)
 
 
-### Sobre mim
-Estou começando a trilha meu caminho pela area é atualmente estudo é faço projetos para meu repositorio  nas linguagens PHP,JS.
+## Sobre mim
+Meu nome Lauriely, tenho 18 anos é terminei curso tecnico faz um ano é estou ingressando numa faculdade na area.Estou apenas começando a trilhar meu caminho pela area desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens é paradigmas.
+
+### Linguagens
+* PHP
+* JavaScript
+### Ferramentas
+* Git 
+* Linux
+
+### Design
+* Boostrap
+* Materialize
+* Css é HTML
+
 
 
 <!--
