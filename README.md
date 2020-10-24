@@ -7,19 +7,13 @@
 ## Sobre mim
 Meu nome Lauriely, tenho 18 anos é terminei curso tecnico faz um ano é estou ingressando numa faculdade na area.Estou apenas começando a trilhar meu caminho pela area desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens é paradigmas.
 
-### Linguagens
-* PHP
-* JavaScript
-### Ferramentas
-* Git 
-* Linux
+## Conhecimentos
 
-### Design
-* Boostrap
-* Materialize
-* Css é HTML
-
-
+Linguagens| Ferramentas | Design
+---------|----------|---------
+ PHP | GIT | Bootstrap
+ JavaScript | Linux | Materialize
+ | |  | Css é HTML
 
 <!--
 **laurielylourenco/laurielylourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
