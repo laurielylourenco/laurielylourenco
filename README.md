@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="laurielylourenco@gmail.com" alt="Gmail">
+  <a href="mailto:laurielylourenco@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=laurielylourenco@gmail.com" /></a>
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauriely-louren%C3%A7o-79b472182/)](https://www.linkedin.com/in/lauriely-louren%C3%A7o-79b472182/) 
