@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome Lauriely, tenho 18 anos é terminei curso técnico em informática faz um ano é estou ingressando numa faculdade na area.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens é paradigmas.<br>
+  Meu nome Lauriely, tenho 19 anos é terminei curso técnico em informática faz um ano é estou ingressando numa faculdade na area.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens é paradigmas.<br>
   Atualmente estou estudando Node.js .
 </p>
 <p align="left">
-  🦄 Linguagens:Atualmente programo em<strong> PHP é JavaScript</strong>
+  🦄 Linguagens:Atualmente programo em<strong> PHP e JavaScript</strong>
 </p>
 
 <p align="left">
