@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome Lauriely, tenho 19 anos é terminei curso técnico em informática faz um ano é estou ingressando numa faculdade na area.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens é paradigmas.<br>
+  Meu nome é Lauriely, tenho 19 anos é terminei o curso técnico em informática faz mais de 1 ano é estou cursando ciencia da computação.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens é paradigmas.<br>
   Atualmente estou estudando Node.js .
 </p>
 <p align="left">
-  🦄 Linguagens:Atualmente programo em<strong> PHP e JavaScript</strong>
+  🦄 Linguagens:Atualmente trabalho com <strong> PHP e JavaScript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git,linux</strong>
+  💼 Ferramentas: <strong>Git,Linux</strong>
 </p>
  <p align="left">
   💼 Framework:Faço uso do <strong>Laravel</strong> em varios projetos
@@ -33,7 +33,7 @@ Linguagens| Ferramentas | Design |Frameworks
 ---------|----------|---------|---------
  PHP | GIT | Bootstrap |Laravel
  JavaScript | Linux | Materialize|
- | |  | CSS&HTML| -->
+ Node.js| |  | CSS&HTML| -->
 
 
 
