@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
 
 <p align="left"> 
-  Meu nome é Lauriely, tenho 19 anos estou cursando ciencia da computação é trabalho já area.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens,paradigmas,etc tal<br>
+ 👤 Meu nome é Lauriely, tenho 19 anos estou cursando ciencia da computação é trabalho já area.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens,paradigmas,etc tal<br>
 </p>
 <p align="left">
   🦄 Linguagens:Atualmente trabalho com <strong> PHP e JavaScript(Node.js)</strong>.Por causa da faculdade C e C++ tenho conhecimentos basicos
