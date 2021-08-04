@@ -1,5 +1,8 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
 
+
+<!-- ![Alt Text](https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif) -->
+
 <p align="left"> 
  👤 Meu nome é Lauriely, tenho 19 anos estou cursando ciencia da computação é trabalho já area.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens,paradigmas,etc tal<br>
 </p>
