@@ -4,18 +4,20 @@
 <!-- ![Alt Text](https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif) -->
 
 <p align="left"> 
- 👤 Meu nome é Lauriely, tenho 19 anos estou cursando ciencia da computação é trabalho já area.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens,paradigmas,etc tal<br>
+ 👤 Meu nome é Lauriely, tenho 19 anos estou cursando Ciência da Computação no periodo noturno é trabalho na área desenvolvimento web.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens,paradigmas,etc tal<br>
 </p>
 <p align="left">
-  🦄 Linguagens:Atualmente trabalho com <strong> PHP e JavaScript(Node.js)</strong>.Por causa da faculdade C e C++ tenho conhecimentos basicos
+ ➡️   Linguagens:Atualmente trabalho com <strong> PHP e JavaScript(Node.js)</strong>.Por causa da faculdade C e C++ tenho conhecimentos basicos
 </p>
 
-<p align="left">
+<!-- <p align="left">
   💼 Ferramentas: <strong>Git,Linux</strong>
 </p>
  <p align="left">
   💼 Framework:Faço uso do <strong>Laravel</strong> em varios projetos
-</p> 
+</p>  -->
+
+
 <p align="left">
   💌 Se quiser conversa sobre algo,me dar uma dica,é só chamar: ⤵️
 </p>
