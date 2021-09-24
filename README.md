@@ -22,10 +22,7 @@
   💌 Se quiser conversa sobre algo,me dar uma dica,é só chamar: ⤵️
 </p>
 
-<p align="left">
+
   <a href="mailto:laurielylourenco@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=laurielylourenco@gmail.com" /></a>
-
-  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurielylourenco/)](https://www.linkedin.com/in/laurielylourenco/) 
-
-</p>
+ 
