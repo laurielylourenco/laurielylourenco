@@ -7,7 +7,7 @@
  👤 Meu nome é Lauriely, tenho 20 anos estou cursando Ciência da Computação no periodo noturno é trabalho na área desenvolvimento web.Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens,paradigmas,etc tal<br>
 </p>
 <p align="left">
- ➡️   Linguagens:Atualmente trabalho com <strong> PHP e JavaScript(Node.js)</strong>.Por causa da faculdade C e C++ tenho conhecimentos basicos
+ ➡️   Linguagens:Atualmente trabalho com <strong> PHP e JavaScript(Node.js)</strong>.
 </p>
 
 <!-- <p align="left">
