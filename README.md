@@ -1,29 +1,23 @@
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
+<h1 align="center">Hi 👋, I'm Lauriely</h1>
+<h3 align="center">As a web developer with 3 years of experience and currently pursuing a degree in Computer Science, I believe I am just beginning to embark on my journey in development. There are so many things to seek and explore! In my repositories, I maintain projects that I use to study and enhance my skills. I have a growing desire to increasingly participate in open source and I enjoy Linux.</h3>
 
+- 🌱 I’m currently learning **Go,TypeScript**
 
-<!-- ![Alt Text](https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif) -->
+- 📫 How to reach me **laurielylourenco@gmail.com**
 
-<p align="left"> 
- 👤 Olá, tenho 21 anos estou cursando Ciência da Computação no periodo noturno é trabalho na área desenvolvimento web a quase 3 anos.
- Estou apenas começando a trilhar meu caminho pelo desenvolvimento é aqui nos meus repositorios tem projetos que uso pra estudar linguagens,paradigmas,etc tal<br>
-</p>
+- ⚡ Fun fact **I love anime and pink floyd**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
- ➡️   Linguagens:Atualmente trabalho com <strong> PHP e JavaScript(Node.js)</strong>.
+<a href="https://dev.to/laurielylourenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="laurielylourenco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laurielylourenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurielylourenco" height="30" width="40" /></a>
 </p>
 
-<!-- <p align="left">
-  💼 Ferramentas: <strong>Git,Linux</strong>
-</p>
- <p align="left">
-  💼 Framework:Faço uso do <strong>Laravel</strong> em varios projetos
-</p>  -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-
-<p align="left">
-  💌 Se quiser conversa sobre algo,me dar uma dica,é só chamar: ⤵️
-</p>
-
-
-  <a href="mailto:laurielylourenco@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=laurielylourenco@gmail.com" /></a>
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurielylourenco/)](https://www.linkedin.com/in/laurielylourenco/) 
- 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurielylourenco&show_icons=true&locale=en&layout=compact" alt="laurielylourenco" /></p>
