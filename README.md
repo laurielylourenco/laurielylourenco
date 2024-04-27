@@ -12,6 +12,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Criando um script de sorteio a partir de um CSV com PHP](https://dev.to/laurielylourenco/criando-um-script-de-sorteio-a-partir-de-um-csv-com-php-3n6f)
+- [Como atualizar / limpar o Wordpress em um servidor Linux pelo terminal](https://dev.to/laurielylourenco/como-atualizar-limpar-o-wordpress-em-servidor-linux-pelo-terminal-9i9)
 <!-- BLOG-POST-LIST:END -->
 
 
