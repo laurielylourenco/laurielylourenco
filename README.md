@@ -4,6 +4,7 @@
 
 <details closed>
 <summary>More about me 😊</summary>
+
 - 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **laurielylourenco@gmail.com**
