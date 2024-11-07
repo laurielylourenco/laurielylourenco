@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementando uma Tabela Hash em PHP para Armazenar Dados de Artilheiros do Brasileirão](https://dev.to/laurielylourenco/implementando-uma-tabela-hash-em-php-para-armazenar-dados-de-artilheiros-do-brasileirao-35om)
 - [Biblioteca emoji-picker-element em português](https://dev.to/laurielylourenco/biblioteca-emoji-picker-element-em-portugues-40f4)
 - [Criando um script de sorteio a partir de um CSV com PHP](https://dev.to/laurielylourenco/criando-um-script-de-sorteio-a-partir-de-um-csv-com-php-3n6f)
 - [Como atualizar / limpar o Wordpress em um servidor Linux pelo terminal](https://dev.to/laurielylourenco/como-atualizar-limpar-o-wordpress-em-servidor-linux-pelo-terminal-9i9)
