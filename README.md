@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial OCI8 + PHP 7.4 – O Guia para não bater a cabeça na tela](https://dev.to/laurielylourenco/tutorial-oci8-php-74-o-guia-para-nao-bater-a-cabeca-na-tela-3hak)
 - [Implementando uma Tabela Hash em PHP para Armazenar Dados de Artilheiros do Brasileirão](https://dev.to/laurielylourenco/implementando-uma-tabela-hash-em-php-para-armazenar-dados-de-artilheiros-do-brasileirao-35om)
 - [Biblioteca emoji-picker-element em português](https://dev.to/laurielylourenco/biblioteca-emoji-picker-element-em-portugues-40f4)
 - [Criando um script de sorteio a partir de um CSV com PHP](https://dev.to/laurielylourenco/criando-um-script-de-sorteio-a-partir-de-um-csv-com-php-3n6f)
-- [Como atualizar / limpar o Wordpress em um servidor Linux pelo terminal](https://dev.to/laurielylourenco/como-atualizar-limpar-o-wordpress-em-servidor-linux-pelo-terminal-9i9)
 <!-- BLOG-POST-LIST:END -->
 
 
