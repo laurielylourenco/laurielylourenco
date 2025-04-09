@@ -5,11 +5,11 @@
 <details closed>
 <summary>Mais sobre mim 😊</summary>
 
-- 🌱 Atualmente estou aprendendo **TypeScript**
+- 🌱 Atualmente estou codificando **saas de feedbacks de empresas repositorio veri**
 
 - 📫 Como me encontrar **laurielylourenco@gmail.com**
 
-- ⚡ Curiosidade **Eu amo assistir anime e ouvir Pink Floyd**
+- ⚡ Curiosidade **Eu adoro passar meu tempo vendo you tube e ouvir Pink Floyd**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,7 +21,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laurielylourenco&show_icons=true&locale=en&layout=compact" alt="laurielylourenco" /></p>
+
 </details>
 
 
