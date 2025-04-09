@@ -1,15 +1,35 @@
-<h1 align="center">Oi ✌🏿, eu sou Lauriely</h1>
-<h3 align="center">Como desenvolvedora web com 3 anos de experiência e atualmente cursando Ciência da Computação, acredito que estou apenas começando minha jornada no desenvolvimento. Há tantas coisas para buscar e explorar! Em meus repositórios, mantenho projetos que uso para estudar e aprimorar minhas habilidades. Tenho um desejo crescente de participar cada vez mais de projetos de código aberto e gosto de Linux.</h3>
+# ✌🏿 Olá, visitante!
 
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
+
+## 🌟 Informações Públicas
+
+Meu nome é **Lauriely** . Atualmente meu objetivo é focar cada vez mais em backend. 🚀
+
+No meu tempo livre, gosto de programar pequenos projetos afins de estudo ou pequenos algoritmos, onde aprendo sobre diversos tópicos.
+
+Também escrevo tutorias de programação buscando uma forma leve de compartilhar conhecimento do jeito que aprendi na internet ✍️📹
+
+## 📝 Informações Detalhadas
+
+
+- 👤 **Nome:** Lauriely Lourenço   
+- 🎂 **Idade:** 23  
+- 📫 **Email:** laurielylourenco@gmail.com  
+- 📍 **Localização:** Juiz de fora, MG,Brasil   
+- 💻 **Stack:**  PHP, Laravel, Node.js   
+- 📚 **Aprendizado Atual:** Python, Typescript   
+- 🎓 **Formação:** Atualmente estou cursando ciencia da computação - UFJF noturno
+  
+## 😎 Curiosidades sobre Mim
+
+- ⚡  Eu gosto de ouvir Pink Floyd
+- 💡 Comecei a programar em **2018** e, desde então, venho me desafiando e aprendendo coisas novas.   
+
+---
 
 <details closed>
-<summary>Mais sobre mim 😊</summary>
-
-- 🌱 Atualmente estou codificando **saas de feedbacks de empresas repositorio veri**
-
-- 📫 Como me encontrar **laurielylourenco@gmail.com**
-
-- ⚡ Curiosidade **Eu adoro passar meu tempo vendo you tube e ouvir Pink Floyd**
+<summary>Alguns tutoriais que fiz</summary>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -18,15 +38,4 @@
 - [Biblioteca emoji-picker-element em português](https://dev.to/laurielylourenco/biblioteca-emoji-picker-element-em-portugues-40f4)
 - [Criando um script de sorteio a partir de um CSV com PHP](https://dev.to/laurielylourenco/criando-um-script-de-sorteio-a-partir-de-um-csv-com-php-3n6f)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-
 </details>
-
-
-<h3 align="left">Vamos conversar:</h3>
-<p align="left">
-<a href="https://dev.to/laurielylourenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="laurielylourenco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/laurielylourenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurielylourenco" height="30" width="40" /></a>
-</p>
