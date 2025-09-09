@@ -4,11 +4,11 @@
 
 ## 🌟 Informações Públicas
 
-Meu nome é **Lauriely** . Atualmente meu objetivo é focar cada vez mais em backend. 🚀
+Atualmente meu objetivo é focar cada vez mais em backend. 🚀
 
 No meu tempo livre, gosto de programar pequenos projetos afins de estudo ou pequenos algoritmos, onde aprendo sobre diversos tópicos.
 
-Também escrevo tutorias de programação buscando uma forma leve de compartilhar conhecimento do jeito que aprendi na internet ✍️📹
+Também escrevo tutoriais de programação buscando uma forma leve de compartilhar conhecimento do jeito que aprendi na internet ✍️📹
 
 ## 📝 Informações Detalhadas
 
@@ -16,10 +16,10 @@ Também escrevo tutorias de programação buscando uma forma leve de compartilha
 - 👤 **Nome:** Lauriely Lourenço   
 - 🎂 **Idade:** 23  
 - 📫 **Email:** laurielylourenco@gmail.com  
-- 📍 **Localização:** Juiz de fora, MG,Brasil   
+- 📍 **Localização:** Juiz de fora, MG, Brasil   
 - 💻 **Stack:**  PHP, Laravel, Node.js   
-- 📚 **Aprendizado Atual:** Python, Typescript   
-- 🎓 **Formação:** Atualmente estou cursando ciencia da computação - UFJF noturno
+- 📚 **Aprendizado Atual:** Vue.js, Typescript   
+- 🎓 **Formação:** Atualmente estou cursando Ciência da Computação - UFJF
   
 ## 😎 Curiosidades sobre Mim
 
