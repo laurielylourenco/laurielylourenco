@@ -33,9 +33,9 @@ Também escrevo tutoriais de programação buscando uma forma leve de compartilh
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spec-Driven Development](https://dev.to/laurielylourenco/spec-driven-development-2a4h)
 - [🔍 Linux Holmes: Crônicas de um Detetive de Sistemas](https://dev.to/laurielylourenco/linux-holmes-cronicas-de-um-detetive-de-sistemas-456j)
 - [Tutorial OCI8 + PHP 7.4 – O Guia para não bater a cabeça na tela](https://dev.to/laurielylourenco/tutorial-oci8-php-74-o-guia-para-nao-bater-a-cabeca-na-tela-3hak)
 - [Implementando uma Tabela Hash em PHP para Armazenar Dados de Artilheiros do Brasileirão](https://dev.to/laurielylourenco/implementando-uma-tabela-hash-em-php-para-armazenar-dados-de-artilheiros-do-brasileirao-35om)
-- [Biblioteca emoji-picker-element em português](https://dev.to/laurielylourenco/biblioteca-emoji-picker-element-em-portugues-40f4)
 <!-- BLOG-POST-LIST:END -->
 </details>
